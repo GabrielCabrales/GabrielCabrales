@@ -1,10 +1,10 @@
 ### Hola soy Gabriel Cabrales Pérez 👨‍💻
 
-Desarrollador front-end y aspirante a SST con una pasión desbordante por la programación y la tecnología. Además de trabajar en código, me dedico a ayudar a las juntas de acción comunal con la gestión de proyectos. 🌱
+**_Desarrollador front-end y aspirante a SST con una pasión desbordante por la programación y la tecnología. Además de trabajar en código, me dedico a ayudar a las juntas de acción comunal con la gestión de proyectos. 🌱_**
 
 ### ℹ️ Sobre Mí
 
-Soy un entusiasta de la tecnología con experiencia en desarrollo web. Mi objetivo es combinar mis habilidades técnicas con mi interés en SST para crear soluciones innovadoras que impacten positivamente en las comunidades. 💡
+**_Soy un entusiasta de la tecnología con experiencia en desarrollo web. Mi objetivo es combinar mis habilidades técnicas con mi interés en SST para crear soluciones innovadoras que impacten positivamente en las comunidades. 💡_**
 
 ### 💻 Habilidades Técnicas
 
@@ -19,16 +19,18 @@ Soy un entusiasta de la tecnología con experiencia en desarrollo web. Mi objeti
 ### 🌟 Proyectos Destacados
 
 **_Desarrollo de aplicaciones web interactivas utilizando React.js._**
+
 **_Implementación de interfaces de usuario elegantes y responsivas._**
+
 **_Colaboración en proyectos comunitarios para mejorar la eficiencia y transparencia en la gestión. 🤝_**
 
 ### 🤝 Colaboración y Comunidad
 
-Me apasiona colaborar con otros y contribuir al crecimiento de las comunidades locales. Trabajo activamente con juntas de acción comunal para impulsar proyectos significativos que beneficien a todos. 🌍
+**_Me apasiona colaborar con otros y contribuir al crecimiento de las comunidades locales. Trabajo activamente con juntas de acción comunal para impulsar proyectos significativos que beneficien a todos. 🌍_**
 
 ### 📫 Conéctate Conmigo
 
-¡Hablemos! Estoy interesado en oportunidades de colaboración y aprendizaje. 📧
+**_¡Hablemos! Estoy interesado en oportunidades de colaboración y aprendizaje. 📧_**
 
 **_LinkedIn_: [aquí](https://www.linkedin.com/in/gabriel-cabrales-perez-149a72255/)**
 **_instagram_: [gabrielcabralesperez](https://www.instagram.com/gabrielcabralesperez/)**
